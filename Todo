@@ -1,0 +1,21 @@
+//- half finished
+//-- bugs occured
+//--- need some fixes and implementation and testing
+--Projects--
+RTC with 4Digit [v]
+RFID [x] (discontinued, the module not working)
+^ Door with RFID reader
+Nokia5110 [x]
+^ using controller [x]
+^ snake!!!!! [x]
+TFT LCD Interfacing [x]
+^ Rainbowww [x]
+^ sokoban [x]
+
+
+--Class Files--
+RTC [v] (moving on, because maybe some internal damage)
+Nokia5110 Controller [x]
+Nokia5110 Controller (without libraries) [x]
+TFT LCD Shield [x]
+TFT LCD Shiled (without libraries) [x]

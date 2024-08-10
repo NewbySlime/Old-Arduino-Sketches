@@ -1,0 +1,14 @@
+bug lists:
+still can go opposite direction(solved)
+sometimes it spit out body parts, the last body part was sent to hell based on the pos log (it happens on random occasion, or still don't know what causes it)(solved, by removing serial print)
+
+todo:
+don't use string as the track and compare
+ideas on how to solve this:
+  -mainly use sorting and searching algorithm for track and compare
+  -every time it's updated, the playspace string gets reset and then re-adding the things
+
+adding food, and giving it another body parts when eat a food (solved)
+scoring
+start menu
+some sprites for game over and start menu
